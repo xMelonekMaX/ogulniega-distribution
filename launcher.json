@@ -1,199 +1,201 @@
 {
-	"selected_version": "1.20.1-vulkan",
-	"best_performance_version": [],
-	"outdated_version": [],
-	"upcoming_version": [],
-	"versions": [
-		{
-			"loader_name": "fabric-1.19.2-0.16.14",
-			"name": "1.19.2-optifine",
-			"minecraft_version": "1.19.2",
-			"fabric_version": "0.16.14",
-			"java_name": "jdk-17.0.20+8-jre",
-			"jvm_args": ["-Dfabric.addMods=mods/1.19.2-optifine"]
-		},
-		{
-			"loader_name": "fabric-1.20.1-0.17.3",
-			"name": "1.20.1-sodium",
-			"minecraft_version": "1.20.1",
-			"fabric_version": "0.19.3",
-			"java_name": "jdk-17.0.20+8-jre",
-			"jvm_args": ["-Dfabric.addMods=mods/1.20.1-sodium"]
-		},
-		{
-			"loader_name": "fabric-1.20.1-0.17.3",
-			"name": "1.20.1-vulkan",
-			"minecraft_version": "1.20.1",
-			"fabric_version": "0.19.3",
-			"java_name": "jdk-17.0.20+8-jre",
-			"jvm_args": [
-				"-Dfabric.addMods=mods/1.20.1-vulkan",
-				"-Dorg.lwjgl.system.stackSize=256"
-			]
-		},
-		{
-			"loader_name": "fabric-1.20.6-0.17.3",
-			"name": "1.20.6-sodium",
-			"minecraft_version": "1.20.6",
-			"fabric_version": "0.19.3",
-			"java_name": "jdk-21.0.12+8-jre",
-			"jvm_args": ["-Dfabric.addMods=mods/1.20.6-sodium"]
-		},
-		{
-			"loader_name": "fabric-1.21.1-0.17.3",
-			"name": "1.21.1-sodium",
-			"minecraft_version": "1.21.1",
-			"fabric_version": "0.19.3",
-			"java_name": "jdk-21.0.12+8-jre",
-			"jvm_args": ["-Dfabric.addMods=mods/1.21.1-sodium"]
-		},
-		{
-			"loader_name": "fabric-1.21.1-0.17.3",
-			"name": "1.21.1-vulkan",
-			"minecraft_version": "1.21.1",
-			"fabric_version": "0.19.3",
-			"java_name": "jdk-21.0.12+8-jre",
-			"jvm_args": [
-				"-Dfabric.addMods=mods/1.21.1-vulkan",
-				"-Dorg.lwjgl.system.stackSize=256"
-			]
-		},
-		{
-			"loader_name": "fabric-1.21.3-0.17.3",
-			"name": "1.21.3-sodium",
-			"minecraft_version": "1.21.3",
-			"fabric_version": "0.19.3",
-			"java_name": "jdk-21.0.12+8-jre",
-			"jvm_args": ["-Dfabric.addMods=mods/1.21.3-sodium"]
-		},
-		{
-			"loader_name": "fabric-1.21.3-0.17.3",
-			"name": "1.21.3-vulkan",
-			"minecraft_version": "1.21.3",
-			"fabric_version": "0.19.3",
-			"java_name": "jdk-21.0.12+8-jre",
-			"jvm_args": [
-				"-Dfabric.addMods=mods/1.21.3-vulkan",
-				"-Dorg.lwjgl.system.stackSize=256"
-			]
-		},
-		{
-			"loader_name": "fabric-1.21.4-0.17.3",
-			"name": "1.21.4-sodium",
-			"minecraft_version": "1.21.4",
-			"fabric_version": "0.19.3",
-			"java_name": "jdk-21.0.12+8-jre",
-			"jvm_args": ["-Dfabric.addMods=mods/1.21.4-sodium"]
-		},
-		{
-			"loader_name": "fabric-1.21.4-0.17.3",
-			"name": "1.21.4-vulkan",
-			"minecraft_version": "1.21.4",
-			"fabric_version": "0.19.3",
-			"java_name": "jdk-21.0.12+8-jre",
-			"jvm_args": [
-				"-Dfabric.addMods=mods/1.21.4-vulkan",
-				"-Dorg.lwjgl.system.stackSize=256"
-			]
-		},
-		{
-			"loader_name": "fabric-1.21.5-0.17.3",
-			"name": "1.21.5-sodium",
-			"minecraft_version": "1.21.5",
-			"fabric_version": "0.19.3",
-			"java_name": "jdk-21.0.12+8-jre",
-			"jvm_args": ["-Dfabric.addMods=mods/1.21.5-sodium"]
-		},
-		{
-			"loader_name": "fabric-1.21.5-0.17.3",
-			"name": "1.21.5-vulkan",
-			"minecraft_version": "1.21.5",
-			"fabric_version": "0.19.3",
-			"java_name": "jdk-21.0.12+8-jre",
-			"jvm_args": [
-				"-Dfabric.addMods=mods/1.21.5-vulkan",
-				"-Dorg.lwjgl.system.stackSize=256"
-			]
-		},
-		{
-			"loader_name": "fabric-1.21.6-0.17.3",
-			"name": "1.21.6-sodium",
-			"minecraft_version": "1.21.6",
-			"fabric_version": "0.19.3",
-			"java_name": "jdk-21.0.12+8-jre",
-			"jvm_args": ["-Dfabric.addMods=mods/1.21.6-sodium"]
-		},
-		{
-			"loader_name": "fabric-1.21.8-0.17.3",
-			"name": "1.21.8-sodium",
-			"minecraft_version": "1.21.8",
-			"fabric_version": "0.19.3",
-			"java_name": "jdk-21.0.12+8-jre",
-			"jvm_args": ["-Dfabric.addMods=mods/1.21.8-sodium"]
-		},
-		{
-			"loader_name": "fabric-1.21.10-0.17.3",
-			"name": "1.21.10-sodium",
-			"minecraft_version": "1.21.10",
-			"fabric_version": "0.19.3",
-			"java_name": "jdk-21.0.12+8-jre",
-			"jvm_args": ["-Dfabric.addMods=mods/1.21.10-sodium"]
-		},
-		{
-			"loader_name": "fabric-1.21.11-0.18.3",
-			"name": "1.21.11-sodium",
-			"minecraft_version": "1.21.11",
-			"fabric_version": "0.19.3",
-			"java_name": "jdk-21.0.12+8-jre",
-			"jvm_args": ["-Dfabric.addMods=mods/1.21.11-sodium"]
-		},
-		{
-			"loader_name": "fabric-1.21.11-0.18.3",
-			"name": "1.21.11-vulkan",
-			"minecraft_version": "1.21.11",
-			"fabric_version": "0.19.3",
-			"java_name": "jdk-21.0.12+8-jre",
-			"jvm_args": ["-Dfabric.addMods=mods/1.21.11-vulkan",
-				"-Dorg.lwjgl.system.stackSize=256"]
-		},
-		{
-			"loader_name": "fabric-26.1-0.19.2",
-			"name": "26.1.2-sodium",
-			"minecraft_version": "26.1.2",
-			"fabric_version": "0.19.3",
-			"java_name": "jdk-25.0.4+7-jre",
-			"jvm_args": ["-Dfabric.addMods=mods/26.1.2-sodium"]
-		},
-		{
-			"loader_name": "fabric-26.1-0.19.2",
-			"name": "26.1.2-vulkan",
-			"minecraft_version": "26.1.2",
-			"fabric_version": "0.19.3",
-			"java_name": "jdk-25.0.4+7-jre",
-			"jvm_args": [
-				"-Dfabric.addMods=mods/26.1.2-vulkan",
-				"-Dorg.lwjgl.system.stackSize=256"
-			]
-		},
-		{
-			"loader_name": "fabric-26.2-0.19.3",
-			"name": "26.2-sodium",
-			"minecraft_version": "26.2",
-			"fabric_version": "0.19.3",
-			"java_name": "jdk-25.0.4+7-jre",
-			"jvm_args": ["-Dfabric.addMods=mods/26.2-sodium"]
-		},
-		{
-			"loader_name": "fabric-26.2-0.19.3",
-			"name": "26.3-sodium",
-			"minecraft_version": "26.3-snapshot-8",
-			"fabric_version": "0.19.3",
-			"java_name": "jdk-25.0.4+7-jre",
-			"jvm_args": ["-Dfabric.addMods=mods/26.3-sodium"]
-		}
-	],
-	"ffmpeg_name": "ffmpeg-master-latest-win64-gpl-shared",
-	"ffmpeg_url": "https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl-shared.zip",
-	"default_profile_url": "https://ogulniega.com/files/default_config.zip",
-	"default_profile_fallback_url": "https://cdn.jsdelivr.net/gh/xMelonekMaX/ogulniega-distribution@main/default_config.zip"
+  "selected_version": "1.20.1-vulkan",
+  "best_performance_version": [],
+  "outdated_version": [],
+  "upcoming_version": [],
+  "versions": [
+    {
+      "loader_name": "fabric-1.19.2-0.16.14",
+      "name": "1.19.2-optifine",
+      "minecraft_version": "1.19.2",
+      "fabric_version": "0.16.14",
+      "java_name": "jdk-17.0.20+8-jre",
+      "jvm_args": ["-Dfabric.addMods=mods/1.19.2-optifine"]
+    },
+    {
+      "loader_name": "fabric-1.20.1-0.17.3",
+      "name": "1.20.1-sodium",
+      "minecraft_version": "1.20.1",
+      "fabric_version": "0.19.3",
+      "java_name": "jdk-17.0.20+8-jre",
+      "jvm_args": ["-Dfabric.addMods=mods/1.20.1-sodium"]
+    },
+    {
+      "loader_name": "fabric-1.20.1-0.17.3",
+      "name": "1.20.1-vulkan",
+      "minecraft_version": "1.20.1",
+      "fabric_version": "0.19.3",
+      "java_name": "jdk-17.0.20+8-jre",
+      "jvm_args": [
+        "-Dfabric.addMods=mods/1.20.1-vulkan",
+        "-Dorg.lwjgl.system.stackSize=256"
+      ]
+    },
+    {
+      "loader_name": "fabric-1.20.6-0.17.3",
+      "name": "1.20.6-sodium",
+      "minecraft_version": "1.20.6",
+      "fabric_version": "0.19.3",
+      "java_name": "jdk-21.0.12+8-jre",
+      "jvm_args": ["-Dfabric.addMods=mods/1.20.6-sodium"]
+    },
+    {
+      "loader_name": "fabric-1.21.1-0.17.3",
+      "name": "1.21.1-sodium",
+      "minecraft_version": "1.21.1",
+      "fabric_version": "0.19.3",
+      "java_name": "jdk-21.0.12+8-jre",
+      "jvm_args": ["-Dfabric.addMods=mods/1.21.1-sodium"]
+    },
+    {
+      "loader_name": "fabric-1.21.1-0.17.3",
+      "name": "1.21.1-vulkan",
+      "minecraft_version": "1.21.1",
+      "fabric_version": "0.19.3",
+      "java_name": "jdk-21.0.12+8-jre",
+      "jvm_args": [
+        "-Dfabric.addMods=mods/1.21.1-vulkan",
+        "-Dorg.lwjgl.system.stackSize=256"
+      ]
+    },
+    {
+      "loader_name": "fabric-1.21.3-0.17.3",
+      "name": "1.21.3-sodium",
+      "minecraft_version": "1.21.3",
+      "fabric_version": "0.19.3",
+      "java_name": "jdk-21.0.12+8-jre",
+      "jvm_args": ["-Dfabric.addMods=mods/1.21.3-sodium"]
+    },
+    {
+      "loader_name": "fabric-1.21.3-0.17.3",
+      "name": "1.21.3-vulkan",
+      "minecraft_version": "1.21.3",
+      "fabric_version": "0.19.3",
+      "java_name": "jdk-21.0.12+8-jre",
+      "jvm_args": [
+        "-Dfabric.addMods=mods/1.21.3-vulkan",
+        "-Dorg.lwjgl.system.stackSize=256"
+      ]
+    },
+    {
+      "loader_name": "fabric-1.21.4-0.17.3",
+      "name": "1.21.4-sodium",
+      "minecraft_version": "1.21.4",
+      "fabric_version": "0.19.3",
+      "java_name": "jdk-21.0.12+8-jre",
+      "jvm_args": ["-Dfabric.addMods=mods/1.21.4-sodium"]
+    },
+    {
+      "loader_name": "fabric-1.21.4-0.17.3",
+      "name": "1.21.4-vulkan",
+      "minecraft_version": "1.21.4",
+      "fabric_version": "0.19.3",
+      "java_name": "jdk-21.0.12+8-jre",
+      "jvm_args": [
+        "-Dfabric.addMods=mods/1.21.4-vulkan",
+        "-Dorg.lwjgl.system.stackSize=256"
+      ]
+    },
+    {
+      "loader_name": "fabric-1.21.5-0.17.3",
+      "name": "1.21.5-sodium",
+      "minecraft_version": "1.21.5",
+      "fabric_version": "0.19.3",
+      "java_name": "jdk-21.0.12+8-jre",
+      "jvm_args": ["-Dfabric.addMods=mods/1.21.5-sodium"]
+    },
+    {
+      "loader_name": "fabric-1.21.5-0.17.3",
+      "name": "1.21.5-vulkan",
+      "minecraft_version": "1.21.5",
+      "fabric_version": "0.19.3",
+      "java_name": "jdk-21.0.12+8-jre",
+      "jvm_args": [
+        "-Dfabric.addMods=mods/1.21.5-vulkan",
+        "-Dorg.lwjgl.system.stackSize=256"
+      ]
+    },
+    {
+      "loader_name": "fabric-1.21.6-0.17.3",
+      "name": "1.21.6-sodium",
+      "minecraft_version": "1.21.6",
+      "fabric_version": "0.19.3",
+      "java_name": "jdk-21.0.12+8-jre",
+      "jvm_args": ["-Dfabric.addMods=mods/1.21.6-sodium"]
+    },
+    {
+      "loader_name": "fabric-1.21.8-0.17.3",
+      "name": "1.21.8-sodium",
+      "minecraft_version": "1.21.8",
+      "fabric_version": "0.19.3",
+      "java_name": "jdk-21.0.12+8-jre",
+      "jvm_args": ["-Dfabric.addMods=mods/1.21.8-sodium"]
+    },
+    {
+      "loader_name": "fabric-1.21.10-0.17.3",
+      "name": "1.21.10-sodium",
+      "minecraft_version": "1.21.10",
+      "fabric_version": "0.19.3",
+      "java_name": "jdk-21.0.12+8-jre",
+      "jvm_args": ["-Dfabric.addMods=mods/1.21.10-sodium"]
+    },
+    {
+      "loader_name": "fabric-1.21.11-0.18.3",
+      "name": "1.21.11-sodium",
+      "minecraft_version": "1.21.11",
+      "fabric_version": "0.19.3",
+      "java_name": "jdk-21.0.12+8-jre",
+      "jvm_args": ["-Dfabric.addMods=mods/1.21.11-sodium"]
+    },
+    {
+      "loader_name": "fabric-1.21.11-0.18.3",
+      "name": "1.21.11-vulkan",
+      "minecraft_version": "1.21.11",
+      "fabric_version": "0.19.3",
+      "java_name": "jdk-21.0.12+8-jre",
+      "jvm_args": [
+        "-Dfabric.addMods=mods/1.21.11-vulkan",
+        "-Dorg.lwjgl.system.stackSize=256"
+      ]
+    },
+    {
+      "loader_name": "fabric-26.1-0.19.2",
+      "name": "26.1.2-sodium",
+      "minecraft_version": "26.1.2",
+      "fabric_version": "0.19.3",
+      "java_name": "jdk-25.0.4+7-jre",
+      "jvm_args": ["-Dfabric.addMods=mods/26.1.2-sodium"]
+    },
+    {
+      "loader_name": "fabric-26.1-0.19.2",
+      "name": "26.1.2-vulkan",
+      "minecraft_version": "26.1.2",
+      "fabric_version": "0.19.3",
+      "java_name": "jdk-25.0.4+7-jre",
+      "jvm_args": [
+        "-Dfabric.addMods=mods/26.1.2-vulkan",
+        "-Dorg.lwjgl.system.stackSize=256"
+      ]
+    },
+    {
+      "loader_name": "fabric-26.2-0.19.3",
+      "name": "26.2-sodium",
+      "minecraft_version": "26.2",
+      "fabric_version": "0.19.3",
+      "java_name": "jdk-25.0.4+7-jre",
+      "jvm_args": ["-Dfabric.addMods=mods/26.2-sodium"]
+    },
+    {
+      "loader_name": "fabric-26.2-0.19.3",
+      "name": "26.3-sodium",
+      "minecraft_version": "26.3-snapshot-10",
+      "fabric_version": "0.19.3",
+      "java_name": "jdk-25.0.4+7-jre",
+      "jvm_args": ["-Dfabric.addMods=mods/26.3-sodium"]
+    }
+  ],
+  "ffmpeg_name": "ffmpeg-master-latest-win64-gpl-shared",
+  "ffmpeg_url": "https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl-shared.zip",
+  "default_profile_url": "https://ogulniega.com/files/default_config.zip",
+  "default_profile_fallback_url": "https://cdn.jsdelivr.net/gh/xMelonekMaX/ogulniega-distribution@main/default_config.zip"
 }
