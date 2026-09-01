@@ -1,0 +1,13 @@
+{
+	"version": "0.0.11",
+	"platforms": {
+		"windows-x86_64": {
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUT0NLMWhFSEd0eE41d252Qm9FdUJpRXNneXc1WDVZK1c2WGppQ09zVml4dURjVHA2cXVJUHhocmpFeEhjWUMxcWJJT0RIZk9mZGFEN2NnWnhmbGdHZGxHaUNEcDhwc1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzY4NzM4CWZpbGU6T2d1bG5pZWdhIE1pbmVjcmFmdF8wLjAuMTFfeDY0LXNldHVwLm5zaXMuemlwCk9DcnJldjIrOWpRZFJmS28rL1A5WVovbGVjSkl4K3pKakw1L2tQMTlzd3Q5R2pyL3pPeVUrT1VTUGF2ZXQwYXh4Q0k1cUlDTm9ubkd1MGZLeGdJb0FBPT0K",
+			"url": "https://github.com/melonkowymelonek/test/releases/download/v0/Ogulniega.Minecraft_0.0.11_x64-setup.nsis.zip"
+		},
+		"linux-x86_64": {
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUT0NLMWhFSEd0eEVkbDRwSnRONE9iZ2Ywc3hNUWQyVy9iOVJ6VWFYaGFwWmdoL3RMVWYxb3ZWZlFCWElYNjFvWHkyMWQxNkVIM3FwTTIrWVlZdTBDOUFMcUwxMDQwbkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MTIyMjMwCWZpbGU6T2d1bG5pZWdhIE1pbmVjcmFmdF8wLjAuOV9hbWQ2NC5BcHBJbWFnZQo0MklzOHV5TzI0dmZEUDBpTzVMeSs3UDRXV2lwSEZ5SXlMdjlPYlh2c1BLQXErczNlSlVzd3NtRGh0Qk5wbGxvQnJUaVFnNmoyZ0xyd2hSTjdZTXpEdz09Cg==",
+			"url": "https://github.com/melonkowymelonek/test/releases/download/v0/Ogulniega.Minecraft_0.0.8_amd64.AppImage"
+		}
+	}
+}
