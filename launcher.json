@@ -197,5 +197,14 @@
   "ffmpeg_name": "ffmpeg-master-latest-win64-gpl-shared",
   "ffmpeg_url": "https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl-shared.zip",
   "default_profile_url": "https://ogulniega.com/files/default_config.zip",
-  "default_profile_fallback_url": "https://cdn.jsdelivr.net/gh/xMelonekMaX/ogulniega-distribution@main/default_config.zip"
+  "default_profile_fallback_url": "https://cdn.jsdelivr.net/gh/xMelonekMaX/ogulniega-distribution@main/default_config.zip",
+  "notices": [
+    {
+      "version_condition": [{ "min": 6, "max": 10 }],
+      "message": {
+        "en": "An important patch update is available. Click the Update button.",
+        "pl": "Pojawiła się ważna aktualizacja poprawkowa. Kliknij przycisk Zaktualizuj."
+      }
+    }
+  ]
 }
