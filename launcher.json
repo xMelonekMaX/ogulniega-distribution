@@ -196,7 +196,7 @@
     {
       "loader_name": "fabric-26.2-0.19.2",
       "name": "26.4-sodium",
-      "minecraft_version": "26.4-snapshot-2",
+      "minecraft_version": "26.4-snapshot-3",
       "fabric_version": "0.19.5",
       "java_name": "jdk-25.0.4+7-jre",
       "jvm_args": ["-Dfabric.addMods=mods/26.4-sodium"]
