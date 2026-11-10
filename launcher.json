@@ -1,5 +1,5 @@
 {
-  "selected_version": "26.2-sodium",
+  "selected_version": "26.3-sodium",
   "best_performance_version": [],
   "outdated_version": [],
   "upcoming_version": [],
@@ -196,7 +196,7 @@
     {
       "loader_name": "fabric-26.2-0.19.2",
       "name": "26.4-sodium",
-      "minecraft_version": "26.4-snapshot-3",
+      "minecraft_version": "26.4-snapshot-8",
       "fabric_version": "0.20.1",
       "java_name": "jdk-25.0.4+7-jre",
       "jvm_args": ["-Dfabric.addMods=mods/26.4-sodium"]
