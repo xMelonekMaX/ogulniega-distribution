@@ -156,6 +156,7 @@
     }
   ],
   "latest_launcher_version": "0.0.15",
+  "minimum_launcher_version": "0.0.15",
   "notices": [
     {
       "version_condition": [{ "min": 6, "max": 14 }],
